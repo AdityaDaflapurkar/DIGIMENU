@@ -79,9 +79,9 @@ WSGI_APPLICATION = 'digimenu2.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'digimenu2',
+        'NAME': 'digimenu3',
         'USER': 'root',
-        'PASSWORD':'a',
+        'PASSWORD':'1234',
         'HOST':'127.0.0.1',
         'PORT':'3306',
     }
